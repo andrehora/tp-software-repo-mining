@@ -16,7 +16,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas relevan
 
 5. O repositório deve conter um arquivo `README.md` com as seguintes seções:
 - Nomes dos membros do grupo.
-- Breve explicação sobre os objetivos da ferramenta.
+- Breve explicação sobre o objetivo da ferramenta.
 - Breve explicação sobre as tecnologias utilizadas.
 - Como instalar a ferramenta.
 - Como utilizar a ferramenta.
