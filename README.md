@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desenvolver uma ferramenta de linha de comando que identifique problemas de manutenção de software por meio da mineração de repositórios.
+Desenvolver uma ferramenta de linha de comando que identifique problemas relevantes de manutenção/evolução de software por meio da mineração de repositórios.
 
 ## Especificação
 
@@ -24,7 +24,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 
 ## Submissão
 
-Submeter via Moodle:
+Submeter via Moodle três links:
 - O link do repositório GitHub.
 - O link para a pasta os testes.
-- O link para o último build de sucesso do GitHub Actions (exemplo: https://github.com/Textualize/rich/actions/runs/17610757833).
+- O link para o último build de sucesso do GitHub Actions, mostrando a execução dos testes (exemplo: https://github.com/Textualize/rich/actions/runs/17610757833).
