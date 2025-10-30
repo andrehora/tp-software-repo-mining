@@ -15,12 +15,12 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas relevan
 4. Os testes devem ser executados automaticamente via GitHub Actions.
 
 5. O repositório deve conter um arquivo `README.md` com as seguintes seções:
-- Nomes dos membros do grupo
-- Breve explicação sobre os objetivos da ferramenta
-- Breve explicação sobre as tecnologias utilizadas
-- Como instalar a ferramenta
-- Como utilizar a ferramenta
-- Como executar os testes localmente
+- Nomes dos membros do grupo.
+- Breve explicação sobre os objetivos da ferramenta.
+- Breve explicação sobre as tecnologias utilizadas.
+- Como instalar a ferramenta.
+- Como utilizar a ferramenta.
+- Como executar os testes localmente.
 
 ## Submissão
 
