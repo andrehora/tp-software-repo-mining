@@ -10,7 +10,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas relevan
 
 2. A ferramenta deve poder ser utilizada via linha de comando.
    
-3. A ferramenta deve conter testes de unidade.
+3. A ferramenta deve conter pelo menos 10 testes de unidade.
    
 4. Os testes devem ser executados automaticamente via GitHub Actions.
 
