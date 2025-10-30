@@ -19,8 +19,9 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 ## Especificação
 
 1. A ferramenta deve poder ser utilizada via linha de comando.
-2. A ferramenta deve conter pelo menos 10 testes de unidade.  
-3. Os testes devem ser executados automaticamente via GitHub Actions.
+2. A ferramenta deve tratar de um problema de manutenção/evolução de software por meio da mineração de repositórios.
+3. A ferramenta deve conter pelo menos 10 testes de unidade.  
+4. Os testes devem ser executados automaticamente via GitHub Actions.
 
 ## Submissão
 
