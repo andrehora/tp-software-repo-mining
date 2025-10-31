@@ -21,7 +21,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 1. A ferramenta deve poder ser utilizada via linha de comando.
 2. A ferramenta deve tratar de um problema de manutenção/evolução de software por meio da mineração de repositórios.
 3. A ferramenta deve conter pelo menos 10 testes de unidade.  
-4. Os testes devem ser executados automaticamente via GitHub Actions.
+4. Os testes devem ser executados automaticamente via GitHub Actions. Para isso, deve-se configurar e utilizar a ferramenta [GitHub Actions](https://docs.github.com/pt/actions). No GitHub, existem [diversos exemplos](https://docs.github.com/pt/actions/use-cases-and-examples/building-and-testing) sobre como utilizar o GitHub Actions para várias linguagens
 
 ## Submissão
 
