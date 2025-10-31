@@ -6,7 +6,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas relevan
 
 ## Sobre a Ferramenta
 
-Crie um repositório no GitHub para armazenar a sua ferramenta. A ferramenta deve ter um nome; não utilize nomes como `tp_es2`.
+Crie um repositório no GitHub para armazenar a sua ferramenta. A ferramenta deve ter um nome; não utilize nomes como `tp-es2`.
 
 O repositório deve conter um arquivo `README.md` com as seguintes seções:
 - Nomes dos membros do grupo.
